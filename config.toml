@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://matthh9797.github.io"
 title = "Puppet"
 
 theme = "puppet"
