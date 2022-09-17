@@ -1,4 +1,7 @@
 baseURL = "https://matthh9797.github.io"
+# Tried using the subdirectory but this did not work
+# baseURL = "https://matthh9797.github.io/matthh9797coder"
+# canonifyurls = true
 title = "Puppet"
 
 theme = "puppet"
